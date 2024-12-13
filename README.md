@@ -12,4 +12,8 @@ public large-scale datasets as well as our SCUTic dataset. Our
 proposal demonstrates an enhancement of 1.19 dB in PSNR
 and conserves 7 G of GPU memory when compared to various benchmarks.
 [![image](https://github.com/Xiaohan-Z/Toygs/blob/main/pipline.png)](https://github.com/Xiaohan-Z/Toygs/blob/main/pipline.png)
+The download link for the dataset is: https://pan.baidu.com/s/1LdZ0RvhxRgKY-_MV_yqluw?pwd=twy9 <br>
+The extraction code is: twy9 
+Our code is coming soon
+
 
