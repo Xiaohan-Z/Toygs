@@ -11,3 +11,5 @@ have been carried out to confirm the effectiveness and efficiency of Toy-GS, lea
 public large-scale datasets as well as our SCUTic dataset. Our
 proposal demonstrates an enhancement of 1.19 dB in PSNR
 and conserves 7 G of GPU memory when compared to various benchmarks.
+![Uploading image.png…]()
+
